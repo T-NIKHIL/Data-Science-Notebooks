@@ -1,8 +1,9 @@
-# Data-Science-and-Machine-Learning-Tutorials
-Here are some python notebooks I have created where I have used a single dataset to explain fundamental concepts in data science and machine learning.
-I have created these notebooks as a reference for important concepts and with the hope that they might be useful to beginners just joining the field of ML and AI.
-
-The notebooks can also be accessible from my kaggle profile:
-1. Part 1 : https://www.kaggle.com/nikhilthota/part-1-feature-selection-vs-feature-extraction
-2. Part 2 : https://www.kaggle.com/nikhilthota/part-2-building-a-neural-network
-
+Here are some jupyter and power point notebooks I have created that attempt 
+to explain some concepts in data science. These notebooks are in no way complete
+are a constant work in progress. I will attempt to clean. maintain and update them
+as I learn new concepts. As a disclaimer I do not hold a degree in Data Science or 
+AI and most of the content is based of my reading through various blogpots, textbooks
+and videos. I have attempted to provide the source wherever possible but can be missing 
+in some cases. If you do find a missing reference or an error in my interpretation please
+reach out to me at nthota2@jhu.edu. Hope these notebooks are useful to anyone
+starting new in this field. Happy reading !
